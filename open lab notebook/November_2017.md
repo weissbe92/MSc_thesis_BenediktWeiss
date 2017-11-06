@@ -1,1 +1,2 @@
-1st week: I started working through the scientific python turorial.
+- 1st week: I started working through the scientific python turorial. Preview for 2nd week: Turorials for nibabel and numpy
+- (https://github.com/nipy/workshops)
