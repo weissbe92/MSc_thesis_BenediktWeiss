@@ -10,4 +10,4 @@
   - basics about matrix-operations: https://de.wikibooks.org/wiki/Mathematik_f%C3%BCr_Wirtschaftswissenschaftler:_Rechenregeln_f%C3%BCr_Matrizen
  
 3rd week:
-- here you can find some extra knowledge about[assertations](https://wiki.python.org/moin/UsingAssertionsEffectively)in python
+- here you can find some extra knowledge about [assertations](https://wiki.python.org/moin/UsingAssertionsEffectively) in python
