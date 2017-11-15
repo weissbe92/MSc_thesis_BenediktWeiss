@@ -9,4 +9,5 @@
   - array broadcasting rules extension: https://docs.scipy.org/doc/numpy-1.13.0/user/basics.broadcasting.html 
   - basics about matrix-operations: https://de.wikibooks.org/wiki/Mathematik_f%C3%BCr_Wirtschaftswissenschaftler:_Rechenregeln_f%C3%BCr_Matrizen
  
-
+3rd week:
+- https://wiki.python.org/moin/UsingAssertionsEffectively  this is some help about assertations in python
