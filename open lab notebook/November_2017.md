@@ -11,3 +11,4 @@
  
 3rd week:
 - here you can find some extra knowledge about [assertations](https://wiki.python.org/moin/UsingAssertionsEffectively) in python
+- I repeated [mri-axis orientations](http://www.grahamwideman.com/gw/brain/orientation/orientterms.htm) in context of the done nibabel-tutorial
