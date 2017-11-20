@@ -10,6 +10,6 @@
   - basics about matrix-operations: https://de.wikibooks.org/wiki/Mathematik_f%C3%BCr_Wirtschaftswissenschaftler:_Rechenregeln_f%C3%BCr_Matrizen
  
 3rd week:
--I completed the first nibabel-tutorial and performed [literature research] (http://www.jneurosci.org/cgi/doi/10.1523/JNEUROSCI.0995-06.2006, http://linkinghub.elsevier.com/retrieve/pii/S1053811916307121, http://dx.plos.org/10.1371/journal.pcbi.1003412)
+- I completed the first nibabel-tutorial and performed [literature research] (http://www.jneurosci.org/cgi/doi/10.1523/JNEUROSCI.0995-06.2006, http://linkinghub.elsevier.com/retrieve/pii/S1053811916307121, http://dx.plos.org/10.1371/journal.pcbi.1003412)
 - here you can find some extra knowledge about [assertations](https://wiki.python.org/moin/UsingAssertionsEffectively) in python
 - I repeated [mri-axis orientations](http://www.grahamwideman.com/gw/brain/orientation/orientterms.htm) in context of the done nibabel-tutorial
