@@ -17,5 +17,5 @@
 4th week:
 - for completion of nibabel-tutorials (plotting of surfaces) I used an other [docker image](https://hub.docker.com/r/satra/ibro-workshop-2017/) 
 - I started with the nipype-tutorials and finished the first one (quickstart). For this I had to download the corresponding [updated image](https://github.com/miykael/nipype_tutorial)
-- some problems about the understanding of correct directoring and the relation between keys, ports, images and notebooks occured, therefore I wrote a short text as a reminder of steps I performed between different docker images
+- some problems about the understanding of correct directoring and the relation between keys, ports, images and notebooks occured, therefore I wrote a short text as a reminder of steps I performed between different docker images (see uploaded directories.odt)
 - last, here are some additional informations, which are useful for the done tutorials: [iterfields](http://nipype.readthedocs.io/en/latest/users/mapnode_and_iterables.html), [pipelines and interfaces](http://nipype.readthedocs.io/en/latest/api/generated/nipype.pipeline.engine.nodes.html)
