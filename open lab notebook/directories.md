@@ -41,7 +41,7 @@
 
 
 
-### The image for the nipype-tutorials:
+### The image for the [nipype-tutorials:](https://github.com/miykael/nipype_tutorial)
 
 #### sudo docker run -it --rm -v ~/Python_tutorials/:/home/neuro/nipype_tutorial -p 8888:8888 djarecka/nipype_tutorial:latest jupyter notebook
 
