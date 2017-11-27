@@ -7,7 +7,7 @@
 - worked through numpy-tutorial:
   - more information about [array interfaces](https://docs.scipy.org/doc/numpy-1.13.0/reference/arrays.interface.html)
   - [array broadcasting rules extension](https://docs.scipy.org/doc/numpy-1.13.0/user/basics.broadcasting.html) 
-  - [basics about matrix-operationshttps](://de.wikibooks.org/wiki/Mathematik_f%C3%BCr_Wirtschaftswissenschaftler:_Rechenregeln_f%C3%BCr_Matrizen)
+  - [basics about matrix-operations](https://de.wikibooks.org/wiki/Mathematik_f%C3%BCr_Wirtschaftswissenschaftler:_Rechenregeln_f%C3%BCr_Matrizen)
  
 3rd week:
 - I completed the first nibabel-tutorial and performed [literature research](http://www.jneurosci.org/cgi/doi/10.1523/JNEUROSCI.0995-06.2006), [2](http://linkinghub.elsevier.com/retrieve/pii/S1053811916307121), [3](http://dx.plos.org/10.1371/journal.pcbi.1003412)
