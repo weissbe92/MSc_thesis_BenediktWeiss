@@ -13,7 +13,7 @@
 
 #### sudo docker run -it --rm -v ~/Python_tutorials/:/opt/tutorial -p 8888:8888 satra/ibro-workshop-2017:latest
 
-- opens docker image in bash, while the docker directory is mounted to the physical directory where the data is located 
+- opens [docker image](https://hub.docker.com/r/satra/ibro-workshop-2017/) in bash, while the docker directory is mounted to the physical directory where the data is located 
 
 #### neuro@56bacda17e4d:~$ ls
 #### nilearn_data
