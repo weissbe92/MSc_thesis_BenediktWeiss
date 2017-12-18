@@ -8,5 +8,5 @@
 12/04/2017-12/17/2017:
 
 - correction of the written exposee 
-- nipype tutorials: interfaces, nodes, workflows, caching, [datasets](http://0.0.0.0:8888/notebooks/nipype_tutorial/done_tutorials_nipype/introduction_dataset.ipynb), data input/output, data BIDS, graph visualisation
+- nipype tutorials: interfaces, nodes, workflows, caching, datasets, data input/output, data BIDS, graph visualisation
 - operations in terminal: tree, man, --help, wildcard, ...
