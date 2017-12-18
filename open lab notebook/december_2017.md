@@ -7,6 +7,6 @@
 
 12/04/2017-12/17/2017:
 
-- correction of the written exposee 
+- correction of the written [exposee](https://github.com/weissbe92/MSc_thesis_BenediktWeiss/blob/master/open%20lab%20notebook/exposee.md) 
 - nipype tutorials: interfaces, nodes, workflows, caching, datasets, data input/output, data BIDS, graph visualisation
 - operations in terminal: tree, man, --help, wildcard, ...
