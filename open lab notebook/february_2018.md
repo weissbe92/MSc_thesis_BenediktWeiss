@@ -9,3 +9,10 @@
 
 - preparation of talk about my project and [presentation](https://github.com/weissbe92/MSc_thesis_BenediktWeiss/blob/master/open%20lab%20notebook/presentation%20of%20study.pdf) on thursday 
 - 2 questionaires for experiment (appendix in ethic proposal): screening and testing of stimuli
+
+02/12/18 - 02/18/18:
+
+- final modifications on ethic proposal and 1st submission on wednesday 14.02.
+- familiarised with gitkraken
+- formula "projektantrag" (amount of scanning sessions, test sessions, material)
+- making of a video on combined EEG-MRI-measurement
