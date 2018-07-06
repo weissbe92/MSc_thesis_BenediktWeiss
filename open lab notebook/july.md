@@ -6,7 +6,7 @@
   - for normalisation inform on [nipype-page](http://miykael.github.io/nipype-beginner-s-guide/normalize.html)
  
 - stimuli from angulo-perkins arrived on thursday, renamed the files to voice_0-59.wav, song_0-59.wav, music_0-59.wav to fit into the nomenclatur within the run.csv-files for the psychopy-experiment (4 runfiles)
-- changed the randomisation-file to 4 runs and relative paths and created 4 test-csv-files
+- changed the [randomisation-file](https://github.com/weissbe92/MSc_thesis_BenediktWeiss/blob/master/open%20lab%20notebook/create_run_files.py) to 4 runs and relative paths and created 4 test-csv-files
 - experiment-test at scanner
 - concatenated the 8 movies from mirjam to 4 movies, which have to be cutted to run-length:
   - cut movies: concatenate 2 of mirijams videos and then cut to length we need (for 4 runs) 
